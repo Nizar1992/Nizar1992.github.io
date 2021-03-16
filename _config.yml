@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nizar Hijazeen"
+  name   : "Nizar Al-Hijazeen"
   avatar : "/assets/images/nizarprofile.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
